@@ -1,8 +1,10 @@
 # GFG Profile Tracker
 
 A simple web application that allows users to track GeeksforGeeks (GFG) profiles by entering a username. The application fetches and displays profile details using the GFG API.
+Try yourself :-
 
-Try yourself :- [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
+1. Grant temporary access to the demo server [demoserver](https://cors-anywhere.herokuapp.com/corsdemo).
+2 .Use the application [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
 
 
 ## Features
