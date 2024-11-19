@@ -4,7 +4,8 @@ A simple web application that allows users to track GeeksforGeeks (GFG) profiles
 Try yourself :-
 
 1. Grant temporary access to the demo server [demoserver](https://cors-anywhere.herokuapp.com/corsdemo).
-2 .Use the application [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
+</br>
+3. Use the application [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
 
 
 ## Features
