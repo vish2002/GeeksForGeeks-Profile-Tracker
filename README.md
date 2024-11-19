@@ -5,7 +5,7 @@ Try yourself :-
 
 1. Grant temporary access to the demo server [demoserver](https://cors-anywhere.herokuapp.com/corsdemo).
 </br>
-3. Use the application [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
+2. Use the application [Profile Tracker](https://geeks-for-geeks-profile-tracker.vercel.app/)
 
 
 ## Features
